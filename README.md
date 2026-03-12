@@ -278,8 +278,8 @@ DELETE /orders/:id
 
 ```json
 {
-  "name": "Davide",
-  "email": "davide@example.com",
+  "name": "Max",
+  "email": "max@example.com",
   "password": "123456"
 }
 ```
@@ -374,8 +374,8 @@ Example response:
   "success": true,
   "data": {
     "id": "67d14b7b2d6a8a1234567890",
-    "name": "Davide",
-    "email": "davide@example.com"
+    "name": "Max",
+    "email": "max@example.com"
   }
 }
 ```
